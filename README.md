@@ -44,5 +44,3 @@ Algunos iconos que podrías utilizar:
 - :computer: - Simboliza la interfaz amigable y de fácil manejo del sistema.
 - :closed_lock_with_key: - Indica la seguridad implementada en el sistema para proteger a los usuarios.
 - :clipboard: - Representa la recopilación y análisis de la retroalimentación de los usuarios para mejorar el sistema.
-
-Espero que estos iconos le agreguen un toque especial al archivo Markdown. Si necesitas ayuda adicional, no dudes en preguntar.
